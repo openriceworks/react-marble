@@ -1,0 +1,15 @@
+{
+  "name": "react-marble",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "npm run dev -w workspaces/frontend"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": "true",
+  "workspaces": [
+    "workspaces/frontend",
+    "workspaces/common"
+  ]
+}
