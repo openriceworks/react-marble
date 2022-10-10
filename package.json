@@ -10,6 +10,7 @@
   "private": "true",
   "workspaces": [
     "workspaces/frontend",
-    "workspaces/common"
+    "workspaces/common",
+    "workspaces/serverside"
   ]
 }
